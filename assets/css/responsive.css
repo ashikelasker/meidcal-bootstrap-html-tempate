@@ -1,0 +1,17 @@
+@media(max-width:1200px){
+
+    /* custom css */
+    .card{
+        padding: 2.5rem 1.8rem;
+    }
+}
+.main-btn{
+    font-size: .875rem;
+}
+h1{
+    font-size: 2.85rem;
+    margin-bottom: .6rem;
+}
+h2{
+    font: size 1.87rem; ;
+}
